@@ -1,4 +1,4 @@
-# Multi-Scale-LSTM-Networks-for-Long-Term-Building-Temperature-Prediction
+# Multi-Scale-LSTM-Networks-for-Long-Term-Building-Temperature-Prediction: A Simplified Approach to Complex Thermal Dynamics
 
 **This work was a submission for ICML 2025 Smart Building Hackathon**
 
